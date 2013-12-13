@@ -2,6 +2,7 @@ package src;
 
 public class Borracho {
 	
+	//metodo para obtener que grado de borrachismo tienes
 	public void getBorracho(int num_cerves){
 		if(num_cerves>0 && num_cerves<10){
 			System.out.println("No tienes que preocuparte, eres un español mas");
